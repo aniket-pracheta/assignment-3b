@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" id="win">
+		<TableView id="itemsList" onClick="showItems"></TableView>
+	</Window>
+</Alloy>

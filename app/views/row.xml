@@ -1,0 +1,6 @@
+
+<Alloy>
+	<TableViewRow id="row" rowId="1" itemName="Test1">
+		<Label id="itemName">aniket</Label>
+	</TableViewRow>
+</Alloy>

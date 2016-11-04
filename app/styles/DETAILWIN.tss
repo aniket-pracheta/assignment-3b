@@ -1,0 +1,17 @@
+
+".container" : {
+backgroundColor:"yellow",
+layout:"vertical"  
+},
+"#itemName":{
+	height:Titanium.UI.SIZE,
+	left:0
+},
+"#rowId":{
+	height:Titanium.UI.SIZE,
+	left:0	
+},
+"#closebt":{
+	height:Titanium.UI.SIZE,
+	width:Titanium.UI.SIZE
+	}
